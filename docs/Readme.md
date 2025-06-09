@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+@import "{{ jekyll-theme-Slate }}";
 ### Table of Contents
 
 1. [Skillset A](https://github.com/chickenchick223/EllenSamul/new/main#info-about-skillset-a)
